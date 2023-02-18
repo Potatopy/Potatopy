@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **An Upcoming Discord Bot 👀**
 
-- 💬 Ask me about **N/A**
-
 - ⚡ Fun fact **I'm a "weeabo"**
 
 <h3 align="left">Connect with me:</h3>
