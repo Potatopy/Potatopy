@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **An Upcoming Discord Bot 👀**
 
-- ⚡ Fun fact **I'm a "weeabo"**
+- ⚡ Fun fact **I'm a "weeabo" ;)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
