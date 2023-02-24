@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C, Java**
 
-- 👨‍💻 All of my projects are available at [Coming Soon!](Coming Soon!)
+- 👨‍💻 All of my projects are available at **Website Coming Soon!**
 
 - 💬 Ask me about **discord.py / nextcord**
 
