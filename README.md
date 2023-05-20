@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=potatopy&label=Profile%20views&color=0e75b6&style=flat" alt="potatopy" /> </p>
 
-- 🔭 I’m currently working on **An Upcoming Discord Bot 👀**
+- 🔭 I’m currently working on **A discord bot named `weeaboo`**
 
-- 🌱 I’m currently learning **C, Java**
+- 🌱 I’m currently learning **C, Java, and many more languages...**
 
-- 👨‍💻 All of my projects are available at **Website Coming Soon!**
+- 👨‍💻 All of my projects are available at **My github page (if they are public)**
 
 - 💬 Ask me about **discord.py / nextcord**
 
